@@ -1519,7 +1519,7 @@ m22_23 <- tm_shape(geocoded_sf_skell_23) +
 tmap_mode("view")
 m22_23
 ```
-An interactive version of this map can be found at: https://xarlex.github.io/housing-prices-demo/
+An interactive version of this map can be found [here](https://carltap.github.io/housing-prices-demo/)
 
 ``` r
 ttm() # back to initial mode: "plot"
