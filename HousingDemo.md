@@ -1521,7 +1521,7 @@ m22_23
 ```
 <span>Open image link in a new tab: 
  <a href="https://carltap.github.io/housing-prices-demo/#6_Analysis">
-  <img src="HousingDemo_files/figure-gfm/Skelleftiå map-3.png" width="100%" />
+  <img src="HousingDemo_files/figure-gfm/Skelleftiå map-3.png" width="100%"/>
  </a>
 </span>
 
