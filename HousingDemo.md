@@ -1519,6 +1519,13 @@ m22_23 <- tm_shape(geocoded_sf_skell_23) +
 tmap_mode("view")
 m22_23
 ```
+<span>Open image link in a new tab: 
+ <a href="https://carltap.github.io/housing-prices-demo/#6_Analysis">
+  <img src="HousingDemo_files/figure-gfm/Skelleftiå map-3.png" width="100%" />
+ </a>
+</span>
+
+
 An interactive version of this map can be found [here](https://carltap.github.io/housing-prices-demo/)
 
 ``` r
